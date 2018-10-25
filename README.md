@@ -1,1 +1,2 @@
-# Example_JWT_DotNetCore
+# JWT .Net Core API
+API using JWT in .Net Core + Dapper + MySQL
